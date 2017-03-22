@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[爱拓扑实验室]]></title>
+  <link href="http://itopos.com/atom.xml" rel="self"/>
+  <link href="http://itopos.com/"/>
+  <updated>2017-03-22T06:58:35+08:00</updated>
+  <id>http://itopos.com/</id>
+  <author>
+    <name><![CDATA[Itopos]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[第一篇文章]]></title>
+    <link href="http://itopos.com/blog/20170322/di-%5B%3F%5D-pian-wen-zhang/"/>
+    <updated>2017-03-22T06:45:45+08:00</updated>
+    <id>http://itopos.com/blog/20170322/di-[?]-pian-wen-zhang</id>
+    <content type="html"><![CDATA[<p>终于把Octopress配置好了，之后还需要继续不断完善中。博客主要内容是工作日常随笔，构建知识库。希望能够利用这个平台去分享开发经验，并把价值传播给他人。 爱拓扑实验实验室文章分类：</p>
+
+<blockquote>
+  <ul>
+    <li>整理开发经验和学习笔记</li>
+    <li>Typoros开源系统相关内容</li>
+    <li>开源硬件实验记录</li>
+    <li>开源项目资讯信息</li>
+  </ul>
+</blockquote>
+]]></content>
+  </entry>
+  
+</feed>
